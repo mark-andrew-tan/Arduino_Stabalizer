@@ -16,4 +16,6 @@ Build a device that will balance a small object on a rocking platform.
 
 The servo motor was used to keep the platform horizontal relative to the ground
 
+![GitHub Dark](https://github.com/mark-andrew-tan/Arduino_Stabalizer/blob/main/images/Connections%20to%20Arduino.png)
+
 The sonar sensor was used for orientation input to control the servo motor.
